@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! 🚀 This project showcases my work, s
 
 ## 🌍 Live Website
 
-[https://yasindev.com/](https:/yasindev.com/)
+[https:/yasindev.com/](https:/yasindev.com/)
 
 ## 📌 About the Project
 

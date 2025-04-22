@@ -1,10 +1,10 @@
-# Salman Izhar - Portfolio
+# Yasin Sarkar - Portfolio
 
 Welcome to my personal portfolio website! 🚀 This project showcases my work, skills, and experience in web development.
 
 ## 🌍 Live Website
 
-[www.salmanizhar.com](https://www.salmanizhar.com)
+[https://yasindev.com/](https://yasindev.com/)
 
 ## 📌 About the Project
 
@@ -38,13 +38,13 @@ To run the project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/salman679/Portfolio-for-Me.git
+   git clone https://github.com/yasin-sorkar47/portfolio.git
    ```
 
 2. **Navigate to the Project Folder:**
 
    ```sh
-   cd Portfolio-for-Me
+   cd portfolio
    ```
 
 3. **Install Dependencies:**
@@ -65,8 +65,8 @@ To run the project locally, follow these steps:
 
 If you'd like to collaborate or have any questions, feel free to reach out:
 
-- **Email:** MdSalmanIzhar@gmail.com
-- **LinkedIn:** [Salman Izhar](https://www.linkedin.com/in/salmanizhar)
-- **GitHub:** [salman679](https://github.com/salman679)
+- **Email:** mdyacinsorkar17@gmail.com
+- **LinkedIn:** [Yasin Sarkar](https://www.linkedin.com/in/yasin-sarkar-24444b298/)
+- **GitHub:** [yasin-sorkar47](https://github.com/yasin-sorkar47)
 
 Thank you for visiting my portfolio! 🎉

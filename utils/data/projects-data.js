@@ -1,7 +1,3 @@
-import ahmad from "/public/image/ahmad.png";
-import cosyneds from "/public/image/cosynedds.png";
-import education from "/public/image/education.png";
-
 export const projectsData = [
   {
     id: 1,
@@ -19,7 +15,7 @@ export const projectsData = [
     role: "Full Stack Developer",
     code: "",
     demo: "https://cosyneeds.shop/",
-    image: cosyneds,
+    image: "https://i.ibb.co.com/YFBzQvjX/cosynedds.png",
   },
   {
     id: 2,
@@ -37,7 +33,7 @@ export const projectsData = [
     role: "Front-End Developer",
     code: "",
     demo: "https://ahmadsit.com/",
-    image: ahmad,
+    image: "https://i.ibb.co.com/fdNmtXXt/ahmad.png",
   },
   {
     id: 3,
@@ -55,6 +51,6 @@ export const projectsData = [
     code: "",
     role: "Full Stack Developer",
     demo: "https://online-education-326ed.web.app/",
-    image: education,
+    image: "https://i.ibb.co.com/zH0f3mhS/education.png",
   },
 ];

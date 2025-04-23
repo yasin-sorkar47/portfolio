@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Yasin Sarkrar",
-  profile: "/yasinSarkar.jpg",
+  profile: "https://i.ibb.co.com/HftLff5m/yasin-Sarkar.jpg",
   designation: "Front-End Developer",
   description: `Hi, I'm Yasin Sarkar — a dedicated and motivated Front-End Web Developer with a strong passion for building modern, responsive, and user-friendly web applications.
 I specialize in HTML5, Tailwind CSS, Bootstrap, JavaScript, React.js, and Next.js, and I love turning creative ideas into real-world projects. I'm experienced with tools and libraries like React Router, Context API, and localStorage, and I'm also comfortable working with backend technologies like Node.js, Express.js, Firebase, and MongoDB for full-stack development.`,
